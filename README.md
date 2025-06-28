@@ -38,4 +38,4 @@ You will need to have the following installed:
 To clone the repository, use the following command:
 
 ```bash
-git clone https://github.com/milankhanal29/healtogetherproject.git
+git https://github.com/himalkhanal17/healtogetherproject-main.git
